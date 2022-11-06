@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OficialBombero/app/src/main/res/drawable/spinner_ciudad.xml" value="0.121" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_calification_client.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_confirm_image_send.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_history_booking_detail_driver.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_history_booking_driver.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_login.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_main.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_map_driver.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_map_driver_booking.xml" value="0.21" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_notification_booking.xml" value="0.25" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_register_driver.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/activity_update_profile_driver.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/card_history_booking.xml" value="0.13984375" />
+        <entry key="..\:/OficialBombero/app/src/main/res/layout/fragment_image_page.xml" value="0.13984375" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1495" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/bubble_corner_left.xml" value="0.161" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/bubble_corner_right.xml" value="0.161" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/custom_edit_text.xml" value="0.302" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/ic_arrow_back.xml" value="0.31" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/ic_arrow_back_black.xml" value="0.31" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/ic_launcherBombero2_foreground.xml" value="0.1815" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1495" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/drawable/ic_outline_close_24.xml" value="0.31" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/action_bar_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_calification_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_detail_request.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_history_booking_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_history_booking_detail_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_history_booking_detail_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_history_booking_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_map_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_map_client_booking.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_map_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_map_driver_booking.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_notification_booking.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_phone_auth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_register_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_request_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_update_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/activity_update_profile_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/cardview_chats.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/cardview_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/layout/chat_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/menu/client_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/EasyTaxiConductor/app/src/main/res/menu/driver_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/drawable/bubble_corner_left.xml" value="0.28" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/drawable/circular_view.xml" value="0.241" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/drawable/splash_screen.xml" value="0.28" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/action_bar_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_calification_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_chat.xml" value="0.18" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_confirm_image_send.xml" value="0.153125" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_history_booking_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_history_booking_detail_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_history_booking_driver.xml" value="0.22" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_map_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_map_driver_booking.xml" value="0.2" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_notification_booking.xml" value="0.16" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_phone_auth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_register_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/activity_update_profile_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/card_history_booking.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/cardview_chats.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/cardview_message.xml" value="0.153125" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/chat_toolbar.xml" value="0.3038461538461538" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/layout/fragment_image_page.xml" value="0.18" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/menu/client_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto/EasyTaxiConductor/OficialBombero/app/src/main/res/menu/driver_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/bomberos/OficialBombero/app/src/main/res/layout/activity_confirm_image_send.xml" value="0.190625" />
+        <entry key="..\:/bomberos/OficialBombero/app/src/main/res/layout/activity_notification_booking.xml" value="0.190625" />
+        <entry key="..\:/bomberos/OficialBombero/app/src/main/res/layout/card_history_booking.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

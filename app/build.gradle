@@ -1,0 +1,74 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        applicationId "com.example.oficialbombero"
+        minSdkVersion 21
+        //noinspection ExpiredTargetSdkVersion
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    dexOptions {
+        incremental true
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation platform('com.google.firebase:firebase-bom:28.0.0')
+    implementation 'com.google.firebase:firebase-analytics:17.5.0'
+    implementation ('com.google.firebase:firebase-auth:19.4.0'){
+        force(true)
+    }
+    implementation 'com.google.android.gms:play-services-auth:18.1.0'
+    implementation 'com.firebaseui:firebase-ui-firestore:6.2.1'
+    implementation 'com.google.firebase:firebase-database:19.4.0'
+    implementation 'com.google.firebase:firebase-firestore:21.5.0'
+    implementation 'com.google.android.gms:play-services-maps:18.1.0'
+    implementation 'com.google.android.gms:play-services-location:20.0.0'
+    implementation 'com.firebase:geofire-android:2.2.0'
+    implementation "com.google.android.libraries.places:places:2.6.0"
+    implementation 'com.google.maps.android:android-maps-utils:0.5'
+    implementation 'com.google.firebase:firebase-messaging:20.2.4'
+    implementation  'com.fxn769:pix:1.5.3'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-scalars:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'com.airbnb.android:lottie:5.2.0'
+    implementation 'com.google.firebase:firebase-storage:19.2.0'
+    implementation 'id.zelory:compressor:2.1.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.google.firebase:firebase-iid:21.1.0'
+    implementation 'com.firebaseui:firebase-ui-database:6.2.0'
+    implementation 'com.github.florent37:shapeofview:1.3.2'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.hbb20:ccp:2.4.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}

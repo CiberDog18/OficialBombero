@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/colorPrimary"
+    tools:context=".activities.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="CONDUCTOR"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/icon2"></ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="25dp"
+            android:text="@string/phone_description"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="19dp"
+            android:textStyle="bold"></TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="25dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical">
+
+
+            <com.hbb20.CountryCodePicker
+                android:id="@+id/ccp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:ccp_autoDetectCountry="true"
+                app:ccp_textSize="18dp"
+                />
+
+            <EditText
+                android:id="@+id/editTextPhone"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:hint="Telefono"
+                android:inputType="phone"
+                android:textSize="18dp"
+                android:theme="@style/EditTextWhite"/>
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btnIrLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/rounded_boton"
+            android:backgroundTint="@color/bluelight"
+            android:text="ENVIAR SMS"
+            android:textColor="@color/white"></Button>
+
+
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

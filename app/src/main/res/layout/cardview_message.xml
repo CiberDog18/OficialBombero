@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bubble_corner_right"
+        android:paddingBottom="10dp">
+
+
+        <ImageView
+            android:id="@+id/imageViewMessage"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/background_message"
+            android:scaleType="centerCrop"
+            android:minWidth="305dp"
+            android:visibility="gone"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:id="@+id/textViewMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nuevo mensaje.."
+            android:textSize="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="right|center_vertical"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp">
+            <LinearLayout
+                android:id="@+id/linearLayoutDocument"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="17dp"
+                    android:layout_height="17dp"
+                    android:src="@drawable/ic_file_gray" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Documento"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginRight="5dp"
+                    android:textSize="12dp"
+                    />
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/textViewDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4:00 P.M"
+                android:textSize="10dp"
+                android:textColor="@color/colorGrayDark" />
+
+            <ImageView
+                android:id="@+id/imageViewCheck"
+                android:layout_width="35dp"
+                android:layout_height="15dp"
+                android:src="@drawable/icon_double_check_gray" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
